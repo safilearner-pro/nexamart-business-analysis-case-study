@@ -1,4 +1,5 @@
 # 01 — SWOT Analysis
+<img width="424" height="235" alt="image" src="https://github.com/user-attachments/assets/807a5d9a-8a22-4d1d-9b4e-f03dc82adab2" />
 
 ## NexaMart AI Customer Support Agent Deployment
 
