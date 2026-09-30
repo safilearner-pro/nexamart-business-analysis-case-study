@@ -32,8 +32,8 @@ escalation, governance and security controls.
 
 ## BA Techniques
 
-| # | Technique | Status |
-|---|---|---|
+| # | Technique |
+|---|---|
 | 01 | SWOT Analysis |
 | 02 | MOST Analysis | 
 | 03 | Business Process Modelling | 
